@@ -1,0 +1,22 @@
+{
+  "name": "11-constructor-word-game",
+  "version": "1.0.0",
+  "description": "a Word Guess command-line game using constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "boatyMcBoatFace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamlacasse/11-constructor-word-game.git"
+  },
+  "author": "Adam LaCasse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamlacasse/11-constructor-word-game/issues"
+  },
+  "homepage": "https://github.com/adamlacasse/11-constructor-word-game#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
