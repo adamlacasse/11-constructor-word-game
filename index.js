@@ -1,7 +1,7 @@
 var Word = require("./word.js")
 var inquirer = require("inquirer")
 
-const wordArray = ["dog", "aardvark", "anteater", "moose", "zebra", "catepillar", "shark", "cat", "mouse"]
+const wordArray = ["yankee", "hotel", "foxtrot", "wilco", "zebra", "magnolia", "icicle", "bicycle", "goodbye"]
 var usedGuesses = 0;
 var totalGuesses = ""
 var correctGuesses = 0;
